@@ -10,6 +10,7 @@ music, and put your music files in there. After doing that you can run the app (
 
 In the app you can expand the window and there choose one of the playlists you want to play that are 
 in the PlayLists folder. In the main window of the app, you can:
+
 1. Skip songs in the current playing playlist.
 
 2.play, pause and unpause any song in the current playing playlist.
@@ -18,3 +19,5 @@ in the PlayLists folder. In the main window of the app, you can:
 
 Again, this is one of my very first projects, so I'm looking for ways to improve it.
 Any comments about the project will be welcomed
+
+NOTE THAT the music files should be mp3 files
