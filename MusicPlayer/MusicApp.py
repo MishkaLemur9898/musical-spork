@@ -24,8 +24,11 @@ ALBUM = []
 def onselect(evt):
     #Shows the selected note on the screen
     global last_selected
-    w = evt.widget
-    last_selected = int(w.curselection()[0])
+    try:
+        w = evt.widget
+        last_selected = int(w.curselection()[0])
+    except:
+        last_selected = None
     
 
 def pause_or_play():
